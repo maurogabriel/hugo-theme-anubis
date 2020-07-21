@@ -1,4 +1,4 @@
-# Anubis Theme for Hugo
+# DevNetAr Theme for Hugo (an Anubis forked theme)
 
 Anubis is a simple minimalist theme for [Hugo blog engine](https://gohugo.io/).
 
