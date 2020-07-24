@@ -2,7 +2,7 @@
 
 DevNetAr is a simple minimalist theme for [Hugo blog engine](https://gohugo.io/).
 
-![Anubis Screenshot](https://raw.githubusercontent.com/mitrichius/hugo-theme-anubis/master/images/screenshot.png)
+![Dev.Net.Ar Screenshot](https://raw.githubusercontent.com/maurogabriel/hugo-theme-devnetar/master/images/tn.png)
 
 ## Features
 
@@ -25,7 +25,7 @@ DevNetAr is a simple minimalist theme for [Hugo blog engine](https://gohugo.io/)
 
 Inside the folder of your Hugo site run:
 
-    $ git submodule add https://github.com/mitrichius/hugo-theme-anubis.git themes/anubis
+    $ git submodule add https://github.com/maurogabriel/hugo-theme-devnetar.git themes/devnetar
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
@@ -39,8 +39,8 @@ Example of config.yaml:
 ```yaml
 languageCode: "en-us"
 baseUrl: ""
-title: "Anubis"
-theme: "anubis"
+title: "Dev.Net.Ar"
+theme: "devnetar"
 paginate: 10
 disqusShortname: yourdiscussshortname
 googleAnalytics: UA-123-45
@@ -99,7 +99,7 @@ Only works for production environment. You either build your site with variable 
 or just put `env: production` to `params` section of config.
 
 ### Multilingual mode 
-Check config/example usage in [exampleSiteMultilingual](https://github.com/Mitrichius/hugo-theme-anubis/tree/master/exampleSiteMultilingual) directory and documentation on [Hugo site](https://gohugo.io/content-management/multilingual/).
+Check documentation on [Hugo site](https://gohugo.io/content-management/multilingual/).
 
 ### Robots.txt
 Based on environment.  
@@ -110,13 +110,6 @@ To mark posts as favorite just add `favorite: true` in post's front matter. It a
 
 ### Pagination on post single page
 Enabled by `paginationSinglePost` param in `params` section of config.
-
-## Contributing
-
-If you find a bug or have an idea for a feature, feel free to write an [issue](https://github.com/mitrichius/hugo-theme-anubis/issues).
-
-## TODO
-See [issues](https://github.com/mitrichius/hugo-theme-anubis/issues).
 
 ## License
 MIT
