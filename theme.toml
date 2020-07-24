@@ -1,10 +1,10 @@
-name = "Anubis"
+name = "DevNetAr"
 license = "MIT"
 description = "A minimal Hugo theme"
-homepage = "https://github.com/mitrichius/hugo-theme-anubis"
+homepage = "https://github.com/maurogabriel/hugo-theme-devnetar"
 tags = ["blog", "minimal", "simple", "clean"]
 features = ["blog"]
 
 [author]
-    name = "Dmitry Kolosov"
-    homepage = "http://dmitrykolosov.ru"
+    name = "Mauro Gabriel"
+    homepage = "http://maurogabriel.com.ar"
